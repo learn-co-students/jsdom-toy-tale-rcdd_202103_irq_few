@@ -13,3 +13,5 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
+//Don't understand servers :(
